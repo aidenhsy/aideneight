@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "aideneightc3386896": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
